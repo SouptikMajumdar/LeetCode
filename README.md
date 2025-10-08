@@ -11,11 +11,13 @@
 | [0283-move-zeroes](https://github.com/SouptikMajumdar/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SouptikMajumdar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SouptikMajumdar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SouptikMajumdar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SouptikMajumdar/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -51,5 +53,10 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SouptikMajumdar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SouptikMajumdar/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
