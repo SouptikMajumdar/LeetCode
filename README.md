@@ -14,11 +14,13 @@
 | [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SouptikMajumdar/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SouptikMajumdar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/SouptikMajumdar/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SouptikMajumdar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/SouptikMajumdar/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
