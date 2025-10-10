@@ -12,6 +12,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/SouptikMajumdar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/SouptikMajumdar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/SouptikMajumdar/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SouptikMajumdar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SouptikMajumdar/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SouptikMajumdar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/SouptikMajumdar/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SouptikMajumdar/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SouptikMajumdar/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
