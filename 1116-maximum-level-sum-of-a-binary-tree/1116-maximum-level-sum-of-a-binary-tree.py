@@ -24,8 +24,6 @@ class Solution:
         maxVal = max(depthSum.values())
         minDepth = min(list(filter(lambda key: depthSum[key] == maxVal, depthSum)))
 
-        print(depthSum)
-
         return minDepth
 
 
