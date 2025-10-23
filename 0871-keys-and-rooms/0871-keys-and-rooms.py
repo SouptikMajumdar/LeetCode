@@ -21,5 +21,4 @@ class Solution:
             else:
                 break
             
-        print(currKeys)
         return len(currKeys) == len(rooms)
