@@ -11,7 +11,7 @@ class Solution:
             ans = 0
             for neighbor in graph[node]:
                 if neighbor not in seen:
-                    if (node, neighbor) in roads: # This is the edge
+                    if (node, neighbor) in roads:
                         ans += 1
                     seen.add(neighbor)
                     ans += dfs(neighbor)
