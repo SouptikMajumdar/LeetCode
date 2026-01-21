@@ -92,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SouptikMajumdar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -237,4 +238,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/SouptikMajumdar/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SouptikMajumdar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
