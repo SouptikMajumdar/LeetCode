@@ -2,7 +2,6 @@ class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         def feasible(speed) -> bool:
             return sum(math.ceil(pile / speed) for pile in piles) <= h  
-        piles.sort()
         left, right = 1, max(piles)
         while left < right:
             mid = left  + (right - left) // 2
