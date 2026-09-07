@@ -14,6 +14,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/SouptikMajumdar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/SouptikMajumdar/LeetCode/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/SouptikMajumdar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/SouptikMajumdar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SouptikMajumdar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/SouptikMajumdar/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/SouptikMajumdar/LeetCode/tree/master/1036-rotting-oranges) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SouptikMajumdar/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SouptikMajumdar/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/SouptikMajumdar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/SouptikMajumdar/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
